@@ -1268,8 +1268,9 @@ h5,
 }
 
 .my-experience .card {
-  background-color: #eee;
+  background-color: #F9F9FF;
   color: #000;
+  border:none;
 }
 
 .my-experience .card a::before {
