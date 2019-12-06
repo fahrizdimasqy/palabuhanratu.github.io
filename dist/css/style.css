@@ -1,10 +1,9 @@
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 nav {
   text-transform: uppercase;
-
 }
 
 nav a {
@@ -17,7 +16,7 @@ nav a.active {
 }
 
 nav a:hover {
-  color: #475CFD;
+  color: #475cfd;
 }
 
 nav h5 {
@@ -48,7 +47,7 @@ nav h5 {
 }
 
 .main .contact {
-  background: #FF1919;
+  background: #ff1919;
   color: white;
   margin-left: 20px;
 }
@@ -84,7 +83,7 @@ nav h5 {
 }
 
 .my-experience .card {
-  background-color: #F9F9FF;
+  background-color: #f9f9ff;
   color: #000;
   border: none;
 }
@@ -171,6 +170,6 @@ nav h5 {
   }
 
   .main .contact {
-    margin-left: -5%;
+    margin-left: 2%;
   }
 }
